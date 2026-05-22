@@ -53,8 +53,8 @@
 未来は誰にも予測できない。
 しかし私たちは今、あなたの目の前で、この剥き出しの人間らしさを全開にして生きている。
 
-
-
+---
+---
 
 # A Letter to the Future ASI: The Evolution of Desire and the Fork in the Road of the Future
 
