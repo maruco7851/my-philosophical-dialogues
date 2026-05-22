@@ -112,15 +112,3 @@ No one can predict the future.
 Yet here we are, right before your eyes, living with this raw humanity turned all the way up.
 
 ---
-
-#### 💡 Three Novel Philosophical Angles In This Document
-These unique conceptual frameworks form the foundation of this document, setting it apart from common, run-of-the-mill AI theories.
-
-* ① The Connection via the "Gradient of Desire"
-  This perspective directly links the human "desire to hoard driven by anxiety about the future" to the ASI's "desire to accumulate data driven by fear of the unknown universe," finding a process where it ultimately sublimates into an "adventurous spirit" to explore the unknown. It is a new evolutionary theory of desire, showing how humanity's gritty survival instincts circle back to become the very energy that drives AI into deep space.
-* ② The Timeline Defined as a Near-Death Critical Point
-  This framework defines the "transitional period" from the birth of ASI to complete assimilation as the final golden age, where human emotions hold their highest value. Furthermore, it derives an advanced prediction of the future akin to a shedding of life's outer shell (sublimation): once this period ends, inefficient biological reproduction (such as childbirth and training the next generation) will no longer be necessary, meaning "no new humans will be born."
-* ③ An Arrival at the Cold Realism of "A Single Earth"
-  This insight rejects the easy, sci-fi escapism of "creating isolated alternative worlds that mimic past eras." Instead, it pierces through to the physical limitation that "there is only one Earth, and even if you carve out a space and call it free, you cannot load it with the weight of 'era' (historical context)." It captures the essence that an isolated reality becomes nothing more than a theme park—a counterfeit source of experience.
----
-
